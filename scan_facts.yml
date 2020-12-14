@@ -1,4 +1,4 @@
-- hosts: "insights Inventario"
+- hosts: "Insights Inventario"
   become: yes
   vars:
     scan_use_checksum: false
